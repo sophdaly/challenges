@@ -107,6 +107,7 @@ venv.bak/
 
 # Data
 /data/
+*/logs
 
 # Models
 /models/
